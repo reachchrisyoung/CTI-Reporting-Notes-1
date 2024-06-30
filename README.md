@@ -5,27 +5,18 @@ Link: https://youtu.be/p5g6oyG1rb0?si=EsxSkjf1y_x4zh7O
 
 ### Key Takeaway: Make sure the problem/question is understood.  
 
-Table of Contents
+<h4>Table of Contents</h4>
 
-[Bottom Line (Up Front)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#key-takeaway-make-sure-the-problemquestion-is-understood)
-
-[Illustrating the Point](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line-up-front)
-
-[Likely Cause (in this illustration)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#-to-illustrate-the-issue-)
-
-[Discussion](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#likely-cause-in-this-illustration)
-
-[How to articulate the cause](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#discussion)
-
-[What it means to fail with this](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#how-to-articulate-the-cause)
-
-[Proposed Solution](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-it-means-to-fail-with-this)
-
-[What this proposed solution achieves](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-this-achieves)
-
-[Bottom Line](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line)
-
-[Suitability](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#suitability)
+- [Bottom Line (Up Front)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#key-takeaway-make-sure-the-problemquestion-is-understood)
+- [Illustrating the Point](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line-up-front)
+- [Likely Cause (in this illustration)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#-to-illustrate-the-issue-)
+- [Discussion](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#likely-cause-in-this-illustration)
+- [How to articulate the cause](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#discussion)
+- [What it means to fail with this](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#how-to-articulate-the-cause)
+- [Proposed Solution](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-it-means-to-fail-with-this)
+- [What this proposed solution achieves](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-this-achieves)
+- [Bottom Line](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line)
+- [Suitability](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#suitability)
 
 
 ### Bottom Line (Up Front):
