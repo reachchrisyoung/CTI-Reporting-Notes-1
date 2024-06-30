@@ -27,7 +27,7 @@ The presenter didn’t establish a clear conflict that we’re attempting to tac
 
 When I’m trying to illustrate the problem or situation being encountered – from a cybersecurity perspective – articulate the cause.
 
-How to articulate the cause:
+### How to articulate the cause:
 
 “We’re in this situation because of…[business context][security context].”
 
