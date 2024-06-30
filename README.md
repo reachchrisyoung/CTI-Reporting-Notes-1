@@ -8,14 +8,14 @@ Source: YouTube Video - [Mastering The Art Of Storytelling In Cybersecurity](htt
 
 - [Bottom Line (Up Front)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#table-of-contents)
 - [Illustrating the Point](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#bottom-line-up-front)
-- [Likely Cause (in this illustration)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#-to-illustrate-the-issue-)
-- [Discussion](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#likely-cause-in-this-illustration)
-- [How to articulate the cause](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#discussion)
-- [What it means to fail with this](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#how-to-articulate-the-cause)
-- [Proposed Solution](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-it-means-to-fail-with-this)
-- [What this proposed solution achieves](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#what-this-achieves)
-- [Bottom Line](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line)
-- [Suitability](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#suitability)
+- [Likely Cause (in this illustration)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#-to-illustrate-the-issue-)
+- [Discussion](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#likely-cause-in-this-illustration)
+- [How to articulate the cause](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#discussion)
+- [What it means to fail with this](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#how-to-articulate-the-cause)
+- [Proposed Solution](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#what-it-means-to-fail-with-this)
+- [What this proposed solution achieves](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#proposed-solution)
+- [Bottom Line](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#bottom-line)
+- [Suitability](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#suitability)
 
 
 ### Bottom Line (Up Front):
