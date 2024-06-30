@@ -6,8 +6,8 @@ Source: YouTube Video - [Mastering The Art Of Storytelling In Cybersecurity](htt
 
 <h4>Table of Contents</h4>
 
-- [Bottom Line (Up Front)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#table-of-contents)
-- [Illustrating the Point](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#bottom-line-up-front)
+- [Bottom Line (Up Front)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#table-of-contents)
+- [Illustrating the Point](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#bottom-line-up-front)
 - [Likely Cause (in this illustration)](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#-to-illustrate-the-issue-)
 - [Discussion](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#likely-cause-in-this-illustration)
 - [How to articulate the cause](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1/tree/main?tab=readme-ov-file#discussion)
