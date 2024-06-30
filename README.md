@@ -1,6 +1,6 @@
-Topic: CTI Reporting
-Subject: Note on Chris Cochran’s commentary on CTI Reporting
-Source: YouTube Video - [Mastering The Art Of Storytelling In Cybersecurity](https://youtu.be/p5g6oyG1rb0?si=EsxSkjf1y_x4zh7O)
+Topic: CTI Reporting <br />
+Subject: Note on Chris Cochran’s commentary on CTI Reporting <br />
+Source: YouTube Video - [Mastering The Art Of Storytelling In Cybersecurity](https://youtu.be/p5g6oyG1rb0?si=EsxSkjf1y_x4zh7O) <br />
 
 ### Key Takeaway: Make sure the problem/question is understood.  
 
